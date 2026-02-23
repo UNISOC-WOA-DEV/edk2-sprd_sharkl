@@ -1,5 +1,6 @@
 # edk2-sprd_sharkl
 UEFI compatible with Unisoc (SharkL) chip
+
 Unisoc is another name for sprd.
 
 ### Warning: If the initialization gap of uboot is too large, this project may not be suitable for your device
